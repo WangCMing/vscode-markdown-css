@@ -1,43 +1,43 @@
- a {
+.vscode-dark a {
 	color: #61AFEF;
 }
 
- h1,
- h2,
- h3,
- h4,
- h5,
- h6 {
+.vscode-dark h1,
+.vscode-dark h2,
+.vscode-dark h3,
+.vscode-dark h4,
+.vscode-dark h5,
+.vscode-dark h6 {
 	font-weight: 600;
 	color: #E06C75;
 }
 
- pre code {
+.vscode-dark pre code {
 	color: #ABB2BF;
 }
- strong{
+.vscode-dark strong{
 	color:brown
 }
- code {
+.vscode-dark code {
 	color: #90C378;
 }
 
- pre:not(.hljs),
- code>div {
+.vscode-dark pre:not(.hljs),
+.vscode-dark code>div {
 	background-color: #2C323C;
 }
 
- table>thead>tr>th {
+.vscode-dark table>thead>tr>th {
 	border-color: #2C323C;
 }
 
- h1,
- hr,
- table>tbody>tr+tr>td {
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table>tbody>tr+tr>td {
 	border-color: #2C323C;
 }
 
- blockquote {
+.vscode-dark blockquote {
 	color: #5C6370;
 	font-style: italic;
 	background: transparent;
