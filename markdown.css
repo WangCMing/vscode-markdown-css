@@ -30,7 +30,13 @@
 .vscode-dark table>thead>tr>th {
 	border-color: #2C323C;
 }
+.vscode-dark li{
+	color:yellowgreen;
 
+}
+.vscode-dark ol{
+	color: yellowgreen;
+}
 .vscode-dark h1,
 .vscode-dark hr,
 .vscode-dark table>tbody>tr+tr>td {
