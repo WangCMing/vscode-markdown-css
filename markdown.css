@@ -32,18 +32,9 @@
 }
 .vscode-dark li,
 .vscode-dark ol{
-	color: yellowgreen;
-}
-.vscode-dark li ol,
-.vscode-dark ol ol,
-.vscode-dark li li{
-	color: aquamarine;
+	color:rgb(137, 177, 166);
 }
 
-.vscode-dark li li li,
-.vscode-dark ol ol ol,{
-	color: rgb(174, 185, 182);
-}
 
 
 
